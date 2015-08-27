@@ -25,12 +25,12 @@ Clone repo to your machine (DICE machine or your laptop).
 Step 4:
 Edit files locally (e.g. using Texmaker on a DICE machine). Commit. Pull. Push. (see notes below for git tutorials)
 
-
 LATEX:
 
 Dice machines come pre-installed with everything you will need (class files, LaTeX compiler, editor). You can start working straight away.
 
 OTHER NOTES/IDEAS/THINGS THAT MIGHT HELP YOU:
+- see my dissertation for examples of LaTeX, additional packages, etc.: https://github.com/mwasilew3/MSc_LaTeX_template
 - git tutorials: https://www.atlassian.com/git/tutorials/
 - use package manager for installing LaTeX packages (e.g. yum install texlive-sectsty)
 - you can use ssh keys for authenticating with Github. Here's a handy guide: http://martin.kleppmann.com/2013/05/24/improving-security-of-ssh-private-keys.html
